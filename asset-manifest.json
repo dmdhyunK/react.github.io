@@ -1,10 +1,25 @@
 {
   "files": {
-    "main.js": "/react.github.io/static/js/main.ae03119a.js",
+    "main.css": "/react.github.io/static/css/main.dc4d6ff2.css",
+    "main.js": "/react.github.io/static/js/main.d4fb1dc3.js",
+    "static/media/design9.png": "/react.github.io/static/media/design9.04c6e80e1f7b24b24201.png",
+    "static/media/profile.jpg": "/react.github.io/static/media/profile.adef15ea2e7090d392a2.jpg",
+    "static/media/design4.png": "/react.github.io/static/media/design4.b31a6703ccd1ed18acf1.png",
+    "static/media/design8.png": "/react.github.io/static/media/design8.f8a184a6955cacc42074.png",
+    "static/media/design3.png": "/react.github.io/static/media/design3.9b5784edec864126fca9.png",
+    "static/media/design5.png": "/react.github.io/static/media/design5.88575c5dcf3af8dbe81a.png",
+    "static/media/design6.png": "/react.github.io/static/media/design6.5bf1f3699afb72cf595b.png",
+    "static/media/design7.png": "/react.github.io/static/media/design7.4f03eda88fe98ecbf2bf.png",
+    "static/media/design2.png": "/react.github.io/static/media/design2.8423efcda2867036297c.png",
+    "static/media/codeproject.png": "/react.github.io/static/media/codeproject.056c1f2b223d65621899.png",
+    "static/media/design.png": "/react.github.io/static/media/design.c1272a69604b99cdf90c.png",
+    "static/media/plan.jpg": "/react.github.io/static/media/plan.1ae942631b6826feced7.jpg",
     "index.html": "/react.github.io/index.html",
-    "main.ae03119a.js.map": "/react.github.io/static/js/main.ae03119a.js.map"
+    "main.dc4d6ff2.css.map": "/react.github.io/static/css/main.dc4d6ff2.css.map",
+    "main.d4fb1dc3.js.map": "/react.github.io/static/js/main.d4fb1dc3.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae03119a.js"
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.d4fb1dc3.js"
   ]
 }
