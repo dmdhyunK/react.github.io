@@ -48,7 +48,7 @@ const Like = () => {
       if (password === "0462") {
         setUnlockedIds((prev) => [...prev, img.id]);
       } else {
-        alert("비밀번호가 틀렸습니다.");
+        alert("비밀번호가 틀렸습니다");
       }
     }
   };
