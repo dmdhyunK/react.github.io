@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom/client';
 // import confirmButton from './10/confirmButton';
 // import App from './App';
 // import ConfirmDialog from './6/04/ConfirmDialog';
-import ProfileCard from './14/ProfileCard';
+import Main from './middle/Main';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ProfileCard/>
+    <Main/>
   </React.StrictMode>
 );
 
